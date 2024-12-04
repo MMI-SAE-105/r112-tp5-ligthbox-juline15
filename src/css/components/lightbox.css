@@ -22,3 +22,8 @@ dialog::before {
     line-height: 40px;
     border: 5px solid #fff;
 }
+
+::backdrop {
+    background-color: red;
+    opacity: 0.5;
+}

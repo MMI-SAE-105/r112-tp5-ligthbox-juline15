@@ -1,3 +1,10 @@
 /**
 * Lightbox
 */
+dialog{
+    border: 5px solid #777;
+    border-radius: 25px;
+    padding: 20px;
+    overflow: visible;
+}
+
